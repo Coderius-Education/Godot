@@ -1,5 +1,6 @@
 ---
 sidebar_position: 99
+displayed_sidebar: null
 ---
 
 # Cheatsheet
