@@ -1,0 +1,8 @@
+name: Check pull requests
+on:
+    pull_request:
+        branches: [main, master]
+
+jobs:
+    call-reusable:
+        uses: Coderius-Education/.github/.github/workflows/reusable-pr-check.yml@main
